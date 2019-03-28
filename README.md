@@ -2,5 +2,5 @@
 
 ## Посмотреть деплойенную версую на Heroku вот [тут](https://enigmatic-ocean-64173.herokuapp.com/)
 
-- Бекенд находиться на mongoDB и находиться на сервере MongoDB Atlas
+- Бекенд построен на NodeJS и mongoDB(взялся готовый API) и находиться на сервере MongoDB Atlas
 
